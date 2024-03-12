@@ -6,4 +6,9 @@ Past Yr/
 
 # Ignore files with the extension .slog
 *.slog
+*.out
+lex.yy.c
+*.gch
+y.tab.h
+y.tab.c
 
